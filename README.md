@@ -3,6 +3,9 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=&height=200&section=header&text=수강신청%20확인어플&fontSize=70" />	
 </div>
 <div align=center>
+<h1> 내가 신청한 수강신청 목록을 어플로 바로 확인할수있고 다른 수업들의 정보를 확인 할수있는 어플 입니다</h1>
+</div>
+<div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
